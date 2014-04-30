@@ -1,1 +1,2 @@
-read.csv("test.csv", header=F)
+data = read.csv("test.csv", header=F)
+head(data)
